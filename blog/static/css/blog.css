@@ -40,10 +40,10 @@ h1, h2, h3, h4 {
 
 .post {
     margin-bottom: 70px;
-    font-size: 22;
+
 }
 
 .post h2 a, .post h2 a:visited {
-    font-size: 30pt;
+
     color: #000000;
 }
